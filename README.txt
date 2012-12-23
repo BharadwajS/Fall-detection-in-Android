@@ -12,10 +12,10 @@ I.General Information.
 
 The project was developed in MATLAB and Eclipse in conjunction.Details of the softwares used are listed below. 
 
-Eclipse 3.6.2 (Helios) or greater
-Eclipse JDT plugin (included in most Eclipse IDE packages)
-JDK 6 (JRE alone is not sufficient)
-Android Development Tools plugin (recommended) 
+* Eclipse 3.6.2 (Helios) or greater
+* Eclipse JDT plugin (included in most Eclipse IDE packages)
+* JDK 6 (JRE alone is not sufficient)
+* Android Development Tools plugin (recommended) 
 
 One can download ADT Bundle which comes with preinstalled Android 4.2 platform. The project is complied for Android 2.3.3 platform as target and thus it should also be installed.
 
@@ -38,14 +38,14 @@ II. Setup
 
 To run the Android project.
 
-Import Android project into workspace
-To run the project on the device,the device must be set to debugging mode.
-Connect the device and Run the Android project as an Android application.
+* Import Android project into workspace
+* To run the project on the device,the device must be set to debugging mode.
+* Connect the device and Run the Android project as an Android application.
 
 For the Matlab files
 
-Import the fall_data mat file into the workspace.
-Run posture_detection_23_11_12.m
+* Import the fall_data mat file into the workspace.
+* Run posturerecog.m
 -----------------------------------------------------------------
 III. Contact info.
 
