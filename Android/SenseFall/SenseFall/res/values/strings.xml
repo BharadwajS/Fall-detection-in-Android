@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SenseFall</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Fall detection</string>
+    <string name="start">Start</string>
+    <string name="quit">Quit</string>
+    <string name="textview1">System Online</string>
+    <string name="button1">Quit</string>
+    
+</resources>
